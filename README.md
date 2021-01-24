@@ -1,6 +1,6 @@
 # kdtree
 
-FIXME: my new library.
+A simple implementation of a kd tree with nearest neighbor search, working only with 2d coordinates right now.
 
 ## Usage
 
